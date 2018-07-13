@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Photo</key>
+	<array/>
+	<key>Illustration</key>
+	<array/>
+	<key>mapView</key>
+	<array/>
+	<key>numsegs</key>
+	<array/>
+	<key>Published</key>
+	<array/>
+	<key>Segments</key>
+	<array/>
+	<key>Rating</key>
+	<array/>
+	<key>Type</key>
+	<array/>
+	<key>District</key>
+	<array/>
+	<key>County</key>
+	<array/>
+	<key>Grade</key>
+	<array/>
+	<key>Length</key>
+	<array/>
+	<key>Description</key>
+	<array/>
+	<key>Version</key>
+	<array/>
+	<key>Title</key>
+	<array/>
+	<key>ID</key>
+	<array/>
+</dict>
+</plist>
